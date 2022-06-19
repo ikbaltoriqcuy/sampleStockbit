@@ -1,0 +1,10 @@
+include ':app',
+        ':common',
+        ':data:remote',
+        ':data:model',
+        ':data:local',
+        ':data:repository',
+        ':common_test',
+        ':navigation'
+include ':feature_main'
+include ':feature_login'

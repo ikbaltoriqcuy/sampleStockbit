@@ -1,0 +1,56 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.MaterialComponents.Light.DarkActionBar">
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+        <item name="android:windowContentTransitions">true</item>
+    </style>
+
+    <style name="textColorGreen">
+        <item name="android:textColor">@color/green</item>
+    </style>
+
+    <style name="textColorRed">
+        <item name="android:textColor">@color/red</item>
+    </style>
+
+    <style name="textColorYellow">
+        <item name="android:textColor">@color/yellow</item>
+    </style>
+
+    <style name="textBold">
+        <item name="fontFamily">@font/ubuntu_bold</item>
+        <item name="android:fontFamily">@font/ubuntu_bold</item>
+    </style>
+    
+    <style name="textTitle">
+        <item name="android:textSize">@dimen/sp_18</item>
+    </style>
+
+    <style name="textTitleold" parent="textBold">
+        <item name="android:textSize">@dimen/sp_18</item>
+    </style>
+
+    <style name="textContent">
+        <item name="android:textSize">@dimen/sp_14</item>
+    </style>
+
+    <style name="textGreen" parent="textColorGreen">
+        <item name="android:textSize">@dimen/sp_14</item>
+    </style>
+
+    <style name="textRed" parent="textColorRed">
+        <item name="android:textSize">@dimen/sp_14</item>
+    </style>
+
+    <style name="textYellow" parent="textColorYellow">
+        <item name="android:textSize">@dimen/sp_14</item>
+    </style>
+
+    <style name="textContentBold" parent="textBold">
+        <item name="android:textSize">@dimen/sp_14</item>
+    </style>
+
+</resources>
