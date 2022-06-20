@@ -15,6 +15,7 @@
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/feature_login/Stockbit_Test.feature_login.iml" filepath="$PROJECT_DIR$/.idea/modules/feature_login/Stockbit_Test.feature_login.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/feature_main/Stockbit_Test.feature_main.iml" filepath="$PROJECT_DIR$/.idea/modules/feature_main/Stockbit_Test.feature_main.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/navigation/Stockbit_Test.navigation.iml" filepath="$PROJECT_DIR$/.idea/modules/navigation/Stockbit_Test.navigation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ui_component/Stockbit_Test.ui_component.iml" filepath="$PROJECT_DIR$/.idea/modules/ui_component/Stockbit_Test.ui_component.iml" />
     </modules>
   </component>
 </project>

@@ -5,6 +5,7 @@ include ':app',
         ':data:local',
         ':data:repository',
         ':common_test',
-        ':navigation'
-include ':feature_main'
-include ':feature_login'
+        ':navigation',
+        ':feature_main',
+        ':feature_login',
+        ':ui_component'

@@ -5,7 +5,7 @@ import androidx.lifecycle.MutableLiveData
 import androidx.lifecycle.ViewModel
 import androidx.navigation.NavDirections
 import com.stockbit.common.utils.Event
-import com.stockbit.navigation.NavigationCommand
+import com.stockbit.common.utils.NavigationCommand
 
 abstract class BaseViewModel: ViewModel() {
 

@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Stockbit Example</string>
+    <string name="an_error_happened">An error happened, please retry !</string>
+    <string name="STOCKBIT_ENTER_WITH_GOOGLE">Masuk dengan Google</string>
+    <string name="STOCKBIT_OR">Atau</string>
+    <string name="STOCKBIT_LOGIN">Login</string>
+    <string name="STOCKBIT_LOGIN_FINGERPRINT">Masuk dengan Fingerprint</string>
+</resources>

@@ -22,6 +22,7 @@
             <option value="$PROJECT_DIR$/feature_login" />
             <option value="$PROJECT_DIR$/feature_main" />
             <option value="$PROJECT_DIR$/navigation" />
+            <option value="$PROJECT_DIR$/ui_component" />
           </set>
         </option>
         <option name="resolveModulePerSourceSet" value="false" />

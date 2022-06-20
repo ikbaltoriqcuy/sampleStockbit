@@ -18,7 +18,7 @@
                                 <PersistentState>
                                   <option name="values">
                                     <map>
-                                      <entry key="url" value="file:/$USER_HOME$/AppData/Local/Android/Sdk/icons/material/materialicons/add_box/baseline_add_box_24.xml" />
+                                      <entry key="url" value="file:/$USER_HOME$/AppData/Local/Android/Sdk/icons/material/materialicons/visibility_off/baseline_visibility_off_24.xml" />
                                     </map>
                                   </option>
                                 </PersistentState>
@@ -31,7 +31,7 @@
                             <entry key="autoMirrored" value="true" />
                             <entry key="color" value="282525" />
                             <entry key="opacityPercent" value="75" />
-                            <entry key="outputName" value="ic_baseline_add_box_24" />
+                            <entry key="outputName" value="ic_visibility_off" />
                             <entry key="sourceFile" value="C:\Users\thor\Music\Test Stock bibit\Stockbit Test (Android)\Stockbit Test" />
                           </map>
                         </option>

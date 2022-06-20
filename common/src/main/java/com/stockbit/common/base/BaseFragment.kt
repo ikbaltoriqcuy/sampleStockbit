@@ -10,7 +10,7 @@ import androidx.navigation.fragment.findNavController
 import com.google.android.material.snackbar.Snackbar
 import com.stockbit.common.extension.setupSnackbar
 import com.stockbit.common.utils.Event
-import com.stockbit.navigation.NavigationCommand
+import com.stockbit.common.utils.NavigationCommand
 
 abstract class BaseFragment: Fragment() {
 

@@ -10,7 +10,6 @@ android {
     dataBinding {
         enabled true
     }
-    dynamicFeatures = [':feature']
 }
 
 dependencies {
@@ -20,8 +19,6 @@ dependencies {
     implementation project(Modules.local)
     implementation project(Modules.remote)
     implementation project(Modules.repository)
-    // NAVIGATION
-    implementation project(Modules.navigation)
     // KOIN
     implementation Libraries.koin
     implementation Libraries.koinViewModel

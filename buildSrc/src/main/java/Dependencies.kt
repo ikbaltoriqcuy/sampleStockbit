@@ -7,6 +7,10 @@ object Modules {
 
     val navigation = ":navigation"
 
+    val login = ":feature_login"
+    val main = ":feature_main"
+    val uiComponent = ":ui_component"
+
     val common = ":common"
     val commonTest = ":common_test"
 

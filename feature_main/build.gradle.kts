@@ -34,6 +34,14 @@ android {
 
 dependencies {
 
+    // COMMON
+    implementation(project(Modules.common))
+    // DATA modules
+    implementation(project(Modules.local))
+    implementation(project(Modules.remote))
+    implementation(project(Modules.repository))
+    //UI COMPONENT
+    implementation(project(Modules.uiComponent))
     implementation("androidx.core:core-ktx:1.7.0")
     implementation("androidx.appcompat:appcompat:1.4.2")
     implementation("com.google.android.material:material:1.6.1")
